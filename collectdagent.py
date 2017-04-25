@@ -1,17 +1,17 @@
-# This file is part of collectdagent.^M
-#^M
-#   collectdagent is free software: you can redistribute it and/or modify^M
-#   it under the terms of the GNU General Public License as published by^M
-#   the Free Software Foundation, either version 2 of the License, or^M
-#   (at your option) any later version.^M
-#^M
-#   collectdagent is distributed in the hope that it will be useful,^M
-#   but WITHOUT ANY WARRANTY; without even the implied warranty of^M
-#   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the^M
-#   GNU General Public License for more details.^M
-#^M
-#   You should have received a copy of the GNU General Public License^M
-#   along with collectdagent.  If not, see <http://www.gnu.org/licenses/>.^M
+# This file is part of collectdagent.
+#
+#   collectdagent is free software: you can redistribute it and/or modify
+#   it under the terms of the GNU General Public License as published by
+#   the Free Software Foundation, either version 2 of the License, or
+#   (at your option) any later version.
+#
+#   collectdagent is distributed in the hope that it will be useful,
+#   but WITHOUT ANY WARRANTY; without even the implied warranty of
+#   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#   GNU General Public License for more details.
+#
+#   You should have received a copy of the GNU General Public License
+#   along with collectdagent.  If not, see <http://www.gnu.org/licenses/>.
 
 #
 # This set of imports is required for the agent
